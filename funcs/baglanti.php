@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";//Server adı
-$dbname = "online_on_tani";//Veritabanı adı
+$dbname = "";//Veritabanı adı
 $kullanici = "root";//Veritabanı kullanıcı adı
 $sifre = "";//Veritabanı şifresi
 
